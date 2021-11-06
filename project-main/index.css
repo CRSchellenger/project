@@ -1,0 +1,21 @@
+h1{
+    background-color: black;
+    font-weight: bold;
+    font-family: 'zen antique', serif;
+    color: white;
+}
+#link{
+    width:40em;
+    color:white;
+    font-family: 'zen antique', serif;
+    font-size:xx-large;
+    background-color:black;
+    border-radius:2px;
+    
+}
+img{
+    border-radius: 20em;
+    height:20em;
+    width:auto;
+    
+}

@@ -1,0 +1,27 @@
+.topnav{
+    background-color: black;
+    overflow: hidden;
+    
+}
+.topnav a{
+    float: left;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color:white !important;
+    color: black !important;
+}
+.topnav a:active{
+    background-color:white !important;
+    color: black !important;
+}
+p{
+   border-top: black 4px solid; 
+}
+h2{
+    font-family: 'zen antique', serif;
+}

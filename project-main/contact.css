@@ -1,0 +1,54 @@
+.topnav{
+    background-color: black;
+    overflow: hidden;
+    
+}
+.topnav a{
+    float: left;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color:white !important;
+    color: black !important;
+}
+.topnav a:active{
+    background-color:white !important;
+    color: black !important;
+}
+#name{
+    border-radius: 3em;
+    width: 15em;
+}
+#email{
+    border-radius: 3em;
+    width: 15em;
+}
+#msg{
+    border-radius: 2em;
+    width: 20em;
+    height: 15em;
+}
+#send{
+    border-radius: 3em;
+    width: 15em;
+    background-color: black !important;
+    color: white !important;
+    font-weight: bold !important;
+    font-size:medium !important;
+}
+#cf{
+    background-color: black !important;
+    color: white !important;
+    width:20em;
+    border-radius: 3em;
+}
+#form{
+    border: 2px solid black !important;
+    width: 30em!important;
+    height: 29.5em;
+    border-radius: 3em;
+}

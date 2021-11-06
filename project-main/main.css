@@ -1,0 +1,76 @@
+.topnav{
+    background-color: black;
+    overflow: hidden;
+    
+}
+.topnav a{
+    float: left;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color:white !important;
+    color: black !important;
+}
+.topnav a:active{
+    background-color:white !important;
+    color: black !important;
+}
+
+
+img{
+    align-self: center;
+    margin:auto;
+    height: 20em;
+    width: auto;
+    padding-top: 2em;
+    border-radius: 10em;
+}
+h2{
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing:4px;
+    background-color: black;
+    font-family: 'zen antique', serif;
+    color: white !important;
+    padding-bottom: 1px;
+}
+p{
+    background-color:white !important;
+    color:black !important;
+    font-weight: bold;
+    font-size: 1em;
+    width: 50em;
+    text-decoration: dotted;
+}
+
+#c2{
+    width:30em;
+
+}
+#c3{
+    width:30em;
+}
+#FeildMax{
+    color:gold;
+    text-decoration: underline;
+    width:25em;
+    font-size: x-large;
+    font-family: 'zen antique', serif;
+    font-weight: bold;
+    text-transform:uppercase;
+    letter-spacing: 4px;
+}
+#c4{
+    color:white;
+    background-color: black;
+    width:60em;
+    font-size: smaller;
+    font-family: 'zen antique', serif;
+    font-weight: bold;
+    text-transform:uppercase;
+    letter-spacing: 4px;
+}
